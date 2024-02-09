@@ -277,3 +277,16 @@ margin: 0;
     align-self: stretch;
     margin-top: 30px;
 }
+
+.backgrounduniversal{
+    justify-content: center;
+    color:#FFFFFF;
+    min-height: 100vh;
+    margin: 0;
+    background: linear-gradient(110deg, #000 0%, #2E2E2E 54.5%, #555 100%);
+}
+.barrauniversal{
+    background: linear-gradient(110deg, #53D9F6 50%, #FF70F1 100%);
+    
+}
+
