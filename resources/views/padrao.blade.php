@@ -11,24 +11,22 @@
 </head>
 <body>
 <!--Inicio Navbar -->
-
-
-<nav class="navbar navbar-expand-lg bg-body-tertiary">
+<nav class="navbar navbar-expand-lg bg-body-black navbar-black">
   <div class="container-fluid">
-    <a class="navbar-brand" href="http://127.0.0.1:8000">Catálogo</a>
+    <a class="navbar-brand navbar-text-white" href="http://127.0.0.1:8000">Catálogo</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="/">Home</a>
+          <a class="nav-link active navbar-text-white" aria-current="page" href="/">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/cadastrar">Cadastro</a>
+          <a class="nav-link active navbar-text-white" href="/cadastrar">Cadastro</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="../todosJersey">Buscar</a>
+          <a class="nav-link active navbar-text-white" href="../todosJersey">Buscar</a>
         </li>
       </ul>
     </div>
